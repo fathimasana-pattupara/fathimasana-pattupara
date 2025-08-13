@@ -13,7 +13,8 @@ I'm passionate about exploring data and building analytical models, . As an aspi
 - **Data Tools:** Advanced Excel, Power BI
 - **Econometrics & Statistical Modeling:** Regression, Time Series Analysis, Forecasting
 - **Visualization & Reporting:** Dashboards in Power BI and Excel
-- **Other:** Git, LaTeX (basic)
+- **Other Tools & Platforms:** Git, LaTeX (basic)
+- **Communication & Presentation:** Anchoring, Radio Jockey
 
 ---
 
